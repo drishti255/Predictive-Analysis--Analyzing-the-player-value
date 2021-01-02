@@ -13,4 +13,7 @@ Fifa 19 dataset: https://www.kaggle.com/karangadiya/fifa19
 - XG  Boost
 - Random Forest Tree
 
+## Analysis performed on the Datasets:
+• Joining the datasets • Filtering • Aggregation • Handling missing values • Deriving additional columns from existing datasets • Cleaning
+
 
