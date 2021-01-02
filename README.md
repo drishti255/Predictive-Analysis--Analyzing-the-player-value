@@ -14,6 +14,7 @@ Fifa 19 dataset: https://www.kaggle.com/karangadiya/fifa19
 - Random Forest Tree
 
 ## Analysis performed on the Datasets:
-• Joining the datasets • Filtering • Aggregation • Handling missing values • Deriving additional columns from existing datasets • Cleaning
+- Joining the datasets - Filtering - Aggregation - Handling missing values - Deriving additional columns from existing datasets - Cleaning
+And, showing the final result by removing RMSE  and deciding which model  gives  the best results.
 
 
